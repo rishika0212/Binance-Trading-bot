@@ -1,0 +1,5 @@
+python-binance==1.0.19
+requests>=2.25.1
+websocket-client>=1.0.0
+python-dotenv>=1.0.0,<2.0.0
+flask>=3.0.0
